@@ -1,6 +1,6 @@
 # Deiterhaus Landing Page
 
-A responsive landing page inspired by the Deiterhaus website design, built using HTML5 and CSS3.
+A responsive landing page inspired by the Deiterhaus website design, built using HTML5 and CSS.
 
 ## Features
 
